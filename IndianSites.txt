@@ -1,0 +1,76 @@
+State,Title,LAT,LON
+AndhraPradesh,Undavalli caves,80.5818,16.4969
+Andhra Pradesh,Chandragiri Fort,79.2987,13.5874
+Odisha,Sisupalgarh Ruins,85.8551,20.2255
+Kerala,St. Angelo Fort Ruins,75.3718,11.8542
+Karnataka,Aihole,75.8819,16.0189
+Karnataka,Hampi Archeological Site,76.4667,15.3167
+Karnataka,Badami Archeological Site,75.68,15.92
+Assam,Ambari site,91.7568,26.186
+Puducherry,Arikamedu Ruins,79.8185,11.8992
+UttarPradesh,Ashoka Pillar At Allahabad,81.3869,25.3453
+Bihar,Ashoka Pillar At Vaishali,85.1094,26.014
+Haryana,Asigarh Fort,75.5702,29.1026
+Jammu and Kashmir,Avantiswamy temple,75.0129,33.9231
+Bihar,Nalanda Archeological Site,85.454,25.13
+Andhra Pradesh,Amarvati Ruined Buddhist Stupa,80.3565,16.5758
+Gujarat,Dholavira Indus  Valley Civilisation Site,70.2167,23.8861
+AndhraPradesh,Thotlakonda Site,83.4104,17.8264
+Haryana,Banawali  Indus Valley Site,75.4998,29.5164
+Bihar,Barabar Caves,85.052,25.0133
+Jammu&Kashmir,Basgo Castle Ruins,77.2767,34.2245
+MadhyaPradesh,Bateshwar  Temple Site,78.5425,26.9346
+Kerala,Bekal Fort,75.0325,12.3922
+Haryana,Bhima Devi Temple Complex,76.9147,30.7969
+MadhyaPradesh,Bhimbetka Paleolithic Rock Shelters,77.6125,22.9372
+AndhraPradesh,Bojjannakonda & Lingalakonda,83.0158,17.7101
+Gujarat,Champaner-Pavagadh Archaeological Park,73.5333,22.4833
+Karnataka,Chandravalli site,76.3861,14.2089
+Maharashtra,Ajanta Caves,75.6999,20.5535
+Maharashtra,Ellora Caves,75.1792,20.0643
+Assam,Charaideo Site,94.7481,26.933
+MadhyaPradesh,Deur Kothar Stupa,81.663,24.9324
+UttaPradesh,Dilkusha Kothi Ruins,80.954,26.831
+Kerala,Edakkal Caves,76.2358,11.6247
+Haryana,Firoz Shah Palace Complex,75.7206,29.1663
+Gujarat,Ghumli Site,69.7617,21.8837
+Karnataka,Gomateshwar ,76.4845,12.854
+Karnataka,Halebidu Site,75.9914,13.2126
+Delhi,Hauz Khas Complex,77.1919,28.555
+,All,81.6,22.5
+AndhraPradesh,Thousand Pillar Temple,79.5748,18.0033
+Karnataka,Kallur archaeological site,77.2048,16.1399
+Maharashtra,Karla Caves,73.4701,18.7829
+Bihar,Kumhrar Excavation Site,85.1849,25.5993
+Maharashtra,Lonar crater lake,76.5083,19.9767
+Assam,Madan Kamdev Ruins,91.7407,26.3185
+Bihar,Mahabodhi Temple ,84.9915,24.6959
+Maharashtra,Mahim Fort,72.8382,19.0419
+Bihar,Munger Fort Ruins,86.465,25.3803
+Kerala,Muziris Heritage Site,76.2093,10.1568
+Kerala,Palakkad Fort site,76.6564,10.7635
+Gujarat,Prabhas Patan,70.406,20.8883
+Bihar,Rohtasgarh Fort,83.9167,24.6167
+Gujarat,Rojdi Indus Valley Cvilisation  Site,70.9202,21.8615
+Karnataka,Sannati Site,76.9343,16.8354
+Gujarat,Shikarpur Indus Valley Cvilisation Site,70.6775,23.2375
+Assam,Sri Surya Pahar,90.7075,26.1086
+Kerala,Tellicherry Fort,75.4861,11.7483
+Kerala,Thiruvallam Sree Parasurama Temple Site,76.9551,8.44416
+Kerala,Thiruvanchikulam Temple,76.2064,10.2103
+New Delhi,Tomb of Safdarjung,77.2105,28.5893
+MadhyaPradesh,Udayagiri Caves,77.7722,23.5364
+MadhyaPradesh,Buddhist Monuments-Sanchi,77.74,23.4797
+Odisha,"Sun Temple, Konarak",86.0946,19.8876
+UttarPradesh,Taj Mahal,78.0424,27.1745
+UttarPradesh,Agra Fort,78.0214,27.1799
+Tamilnadu,Great Living Chola Temples,79.1315,10.7827
+Bihar,Vikramshila University Ruins,87.2848,25.324
+AndhraPradesh,Golkonda Fort Ruins,78.4019,17.383
+AndhraPradesh,Gurramkonda Caves,78.5877,13.7699
+Andhra Pradesh,Gandikota,78.2848,14.8134
+Goa,Churches & Convents of Goa,73.9117,15.5025
+Maharashtra,Elephanta Caves,72.9366,18.9668
+Maharashtra,Chhatrapati Shivaji Terminus,72.836,18.9412
+Tamilnadu,Mahabalipuram,80.1982,12.6154
+UttarPradesh,Fatehpur Sikri,77.6632,27.0959
